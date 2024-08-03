@@ -6,7 +6,7 @@ on:
       targets:
         description: 'targets to compile'
         required: true
-        default: "['SIM-AX1800T','HAR-20S2U1','CR660x','JCG-Q20']"
+        default: "['SIM-AX1800T','HAR-20S2U1','CR660x','JCG-Q20','H3C_TX1801']"
       plugins:
         description: 'json format string of include configs'
         required: true
